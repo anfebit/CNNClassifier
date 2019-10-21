@@ -1,6 +1,6 @@
 # CNNClassifier
 
-CNNClassifier is a vehicle classifier CNN. It classifies among cars and motorcycles. The images can be found on img_dataset. Please, visit the post on Medium where youc an find the explananiton of it.
+CNNClassifier is a vehicle classifier CNN. It classifies among cars and motorcycles. The images can be found on img_dataset. Please, visit the post on Medium where you can find mode information.
 
 You can find the code and run it on [Colab](https://colab.research.google.com/drive/11RIif9BiBUm56gUUdcLsTk28TG1s0PHr). 
 
